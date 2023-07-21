@@ -8,6 +8,7 @@ Module 4: Conditionals
 Module 5: Loops  
 Module 6: Strings  
 Module 7: Lists  
+Module 8: Packages / Imports
 
 ## Resources
 [VS Code](https://code.visualstudio.com/)  
