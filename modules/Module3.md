@@ -31,14 +31,19 @@ myFunctionNameWithSomeParams(1, 2, 3)
 ```
 
 ### Function Examples
-Let's create a function that prints hello world.
+Let's create a function that prints hello world. Note, you can run the same function many times, and have the same output.
 ```
 def helloWorldFunction():
     print("Hello World!")
 
 helloWorldFunction()
+helloWorldFunction()
+helloWorldFunction()
+
 ```
 Output:  
+> Hello World!
+> Hello World!
 > Hello World!
 
 <br>
