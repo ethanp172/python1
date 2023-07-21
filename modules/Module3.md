@@ -33,10 +33,10 @@ myFunctionNameWithSomeParams(1, 2, 3)
 ### Function Examples
 Let's create a function that prints hello world.
 ```
-# Create Function: #
 def helloWorldFunction():
     print("Hello World!")
 
-# Run Function: #
 helloWorldFunction()
 ```
+Output:  
+> Hello World!
