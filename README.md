@@ -3,8 +3,8 @@
 ## Syllabus
 Module 1: Hello World  
 Module 2: Variables / Data  
-Module 3: Numbers & Strings
-Module 4: Functions  
+Module 3: Functions
+Module 4: Numbers & Strings  
 Module 5: Conditionals  
 Module 6: Strings  
 Module 7: Lists  
