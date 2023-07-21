@@ -2,6 +2,7 @@
 ### What's Covered?
 - Creating variables
 - Types of variables
+- Changing types
 - Printing
 - Editing variables
 
@@ -22,12 +23,12 @@ For example, you want to name a variable `x`, and store the number `8` inside of
 ### Types of Variables
 There are different types of variables meant to store different types of data.
 - Numbers
-  - Integers (1, 2, 3)
-  - Floats (1.0, 2.0, 3.25)
+  - Integers (1, 2, 3) --> int()
+  - Floats (1.0, 2.0, 3.25) --> float()
 - Text
-  - Strings ("Hello!", "(598dshfkweq)", "Pyth0n ru13z")
-- Lists ([1, 2, 3], ["Apple", "Banana", "Mango"])
-- Tuples ("Apple", "Banana"), ("Cheese", "Pizza") (1, 3, 5)
+  - Strings ("Hello!", "(598dshfkweq)", "Pyth0n ru13z") --> str()
+- Lists ([1, 2, 3], ["Apple", "Banana", "Mango"]) --> list()
+- Tuples ("Apple", "Banana"), ("Cheese", "Pizza") (1, 3, 5) --> tuple()
 
 ### Variables in use
 ```
@@ -37,3 +38,6 @@ stringVar = "Hello World!"
 listVar = [1, 2, 3]
 tupleVar = (1, 2, 3)
 ```
+
+### Changing Types
+To an extent, you can change different variable types. Like converting an int to a string, or an int to a float. 
