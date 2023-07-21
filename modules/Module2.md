@@ -18,3 +18,8 @@ For example, you want to name a variable `x`, and store the number `8` inside of
 - A variable name cannot start with a number
 - A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 - Variable names are case-sensitive (age, Age and AGE are three different variables)
+
+### Types of Variables
+There are different types of variables meant to store different types of data.
+- Numbers
+  - Ints
