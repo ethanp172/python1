@@ -22,4 +22,6 @@ For example, you want to name a variable `x`, and store the number `8` inside of
 ### Types of Variables
 There are different types of variables meant to store different types of data.
 - Numbers
-  - Ints
+  - Integers (1, 2, 3)
+  - Floats (1.0, 2.0, 3.25)
+  - 
