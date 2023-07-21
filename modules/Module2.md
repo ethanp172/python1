@@ -52,3 +52,16 @@ For example, let's convert the number `1822` into a string:
 x = 1822 # Currently an integer
 x = str(x) # Converted to a string
 ```
+
+### Editing Variables
+You can also edit variables throughout your program.  
+You can start with a variable called `x`, then edit `x` as you go on, by re-declaring it.  
+  
+Example:
+```
+x = 124
+# Add more code here
+x = 124 + 2
+
+print(x) # Will output 126
+```
