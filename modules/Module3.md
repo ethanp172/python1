@@ -2,6 +2,7 @@
 ### What's Covered?
 - Creating functions
 - Using functions
+- Function Examples
 
 ### Creating Functions
 You can create a function by declarding it using `def`, then the function name, followed by any parameters you will need.  
@@ -27,4 +28,15 @@ Example:
 myFunctionNameWithNoParams()
 
 myFunctionNameWithSomeParams(1, 2, 3)
+```
+
+### Function Examples
+Let's create a function that prints hello world.
+```
+# Create Function: #
+def helloWorldFunction():
+    print("Hello World!")
+
+# Run Function: #
+helloWorldFunction()
 ```
