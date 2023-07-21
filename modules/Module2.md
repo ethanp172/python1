@@ -27,3 +27,4 @@ There are different types of variables meant to store different types of data.
 - Text
   - Strings ("Hello!", "(598dshfkweq)", "Pyth0n ru13z")
 - Lists ([1, 2, 3], ["Apple", "Banana", "Mango"])
+- Tuples ("Apple", "Banana"), ("Cheese", "Pizza") (1, 3, 5)
