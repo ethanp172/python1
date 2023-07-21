@@ -4,11 +4,12 @@
 Module 1: Hello World  
 Module 2: Variables / Data  
 Module 3: Functions  
-Module 4: Conditionals  
-Module 5: Loops  
-Module 6: Strings  
-Module 7: Lists  
-Module 8: Packages / Imports
+Module 4: Numbers  
+Module 5: Conditionals  
+Module 6: Loops  
+Module 7: Strings  
+Module 8: Lists  
+Module 9: Packages / Imports
 
 ## Resources
 [VS Code](https://code.visualstudio.com/)  
