@@ -1,7 +1,9 @@
-# Module 2: Hello World
-
+# Module 2: Variables / Data
 ### What's Covered?
-- a
+- Creating variables
+- Types of variables
+- Printing
+- Editing variables
 
 ### a
 b
