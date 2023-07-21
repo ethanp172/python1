@@ -14,4 +14,5 @@ Module 6: Lists
 [Python Shell](https://www.python.org/shell/)  
 [Python Docs](https://docs.python.org/3/)  
 
-## Module 1: Hello World
+## How To Read Modules
+Navigate to the `modules` folder, and open each module.
