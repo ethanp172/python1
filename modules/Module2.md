@@ -47,4 +47,8 @@ To an extent, you can change different variable types. Like converting an int to
 - list()
 - tuple()
 
-
+For example, let's convert the number `1822` into a string:
+```
+x = 1822 # Currently an integer
+x = str(x) # Converted to a string
+```
