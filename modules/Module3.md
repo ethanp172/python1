@@ -53,8 +53,12 @@ def additionFunction(x, y):
     print(x + y)
 
 additionFunction(5, 4)
+additionFunction(10, 2)
+additionFunction(10, -2)
 ```
 Output:
 > 9
+> 12
+> 8
 
 
