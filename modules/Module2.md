@@ -3,8 +3,8 @@
 - Creating variables
 - Types of variables
 - Changing types
-- Printing
 - Editing variables
+- Printing
 
 ### Creating Variables
 In python, creating variables are pretty straight forward.  
@@ -64,4 +64,22 @@ x = 124
 x = 124 + 2
 
 print(x) # Will output 126
+```
+
+### Printing Variables
+You can print variables like any normal print.
+
+Example:
+```
+varInt = 45
+varStr = "Hello!"
+varTable = [1, 2, 3]
+
+print(varInt) ## Outputs 45
+print(varInt + 2) ## Outputs 47
+
+print(varStr) ## Outputs Hello!
+print(varStr + "!!") ## Outputs Hello!!!
+
+print(varTable) ## Outputs [1, 2, 3]
 ```
