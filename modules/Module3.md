@@ -57,8 +57,8 @@ additionFunction(10, 2)
 additionFunction(10, -2)
 ```
 Output:
-> 9
-> 12
-> 8
+> 9  
+> 12  
+> 8  
 
 
