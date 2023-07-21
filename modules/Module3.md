@@ -21,4 +21,10 @@ Python uses **white space** insead of curly braces like other languages use. Aft
 
 
 ### Running Functions
-You can run a function by typing the function name, followed by any parameters.
+You can run a function by typing the function name, followed by any parameters.  
+Example:
+```
+myFunctionNameWithNoParams()
+
+myFunctionNameWithSomeParams(1, 2, 3)
+```
