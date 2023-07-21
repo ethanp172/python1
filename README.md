@@ -9,6 +9,6 @@ Module 5: Strings
 Module 6: Lists  
 
 ## Resources
-[VS Code](https://code.visualstudio.com/)
-[Python](https://www.python.org/)
-[Python Shell](https://www.python.org/shell/)
+[VS Code](https://code.visualstudio.com/)  
+[Python](https://www.python.org/)  
+[Python Shell](https://www.python.org/shell/)  
