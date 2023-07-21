@@ -39,7 +39,6 @@ def helloWorldFunction():
 helloWorldFunction()
 helloWorldFunction()
 helloWorldFunction()
-
 ```
 Output:  
 > Hello World!
