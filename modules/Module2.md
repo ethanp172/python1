@@ -24,4 +24,6 @@ There are different types of variables meant to store different types of data.
 - Numbers
   - Integers (1, 2, 3)
   - Floats (1.0, 2.0, 3.25)
-  - 
+- Text
+  - Strings ("Hello!", "(598dshfkweq)", "Pyth0n ru13z")
+- Lists ([1, 2, 3], ["Apple", "Banana", "Mango"])
