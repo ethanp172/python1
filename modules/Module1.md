@@ -63,6 +63,6 @@ print("haha just kidding, python is:")
 print("SUPER SUPER SUPER COOL!!!!!")
 ```
 Output:  
-> Python is okay...
-> haha just kidding, python is:
+> Python is okay...  
+> haha just kidding, python is:  
 > SUPER SUPER SUPER COOL!!!!!
