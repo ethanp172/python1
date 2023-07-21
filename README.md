@@ -12,3 +12,6 @@ Module 6: Lists
 [VS Code](https://code.visualstudio.com/)  
 [Python](https://www.python.org/)  
 [Python Shell](https://www.python.org/shell/)  
+[Python Docs](https://docs.python.org/3/)  
+
+## Module 1: Hello World
