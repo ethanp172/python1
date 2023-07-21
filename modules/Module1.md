@@ -29,3 +29,22 @@ print("Hello World!")     ## Hello World!
 print('How are you?')     ## How are you?
 print(12)                 ## 12
 ```
+
+### Comments
+Comments are essential for any program, to keep notes, set markers, and unuse code snippets. There are two ways to make comments in Python. You can do single line comments with a `#`, or several line comments with `"""`.  
+Examples:
+```
+# This program will print 'Hello World'
+
+
+"""
+I love
+Keeping
+Track
+Of My
+Comments!
+"""
+
+# Dont use:
+# print("Yooooo")
+```
