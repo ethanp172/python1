@@ -19,3 +19,13 @@ BAD EXAMPLES:
 untitled project 789543
 discord bot
 website
+```
+
+### Priting
+Pritning is the most crucial concept in a program, because that is how you can see *what* is going on in the program. You can print by typing `print()`, then put your message in the `()`'s. Later we will discuss different types of data you can print. For now, words go in quotations, `""`, and numbers go in without anything else.  
+Examples:
+```
+print("Hello World!")
+print('How are you?'
+print(12)
+```
