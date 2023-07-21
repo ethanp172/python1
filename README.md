@@ -3,10 +3,11 @@
 ## Syllabus
 Module 1: Hello World  
 Module 2: Variables / Data  
-Module 3: Functions  
-Module 4: Conditionals  
-Module 5: Strings  
-Module 6: Lists  
+Module 3: Numbers & Strings
+Module 4: Functions  
+Module 5: Conditionals  
+Module 6: Strings  
+Module 7: Lists  
 
 ## Resources
 [VS Code](https://code.visualstudio.com/)  
