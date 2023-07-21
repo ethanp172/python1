@@ -48,3 +48,17 @@ Comments!
 # Dont use:
 # print("Yooooo")
 ```
+
+## Overall Example
+File Name: `module1basics.py`
+```
+"""
+This project is going to print a few lines explaining how cool python is!
+Like it is REALLY REALLY cool.
+"""
+
+print("Python is okay...") # Not true
+# Switch it up
+print("haha just kidding, python is:")
+print("SUPER SUPER SUPER COOL!!!!!")
+```
