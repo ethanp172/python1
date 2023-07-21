@@ -28,3 +28,12 @@ There are different types of variables meant to store different types of data.
   - Strings ("Hello!", "(598dshfkweq)", "Pyth0n ru13z")
 - Lists ([1, 2, 3], ["Apple", "Banana", "Mango"])
 - Tuples ("Apple", "Banana"), ("Cheese", "Pizza") (1, 3, 5)
+
+### Variables in use
+```
+integerVar = 28
+floatVar = 4.0
+stringVar = "Hello World!"
+listVar = [1, 2, 3]
+tupleVar = (1, 2, 3)
+```
